@@ -1,6 +1,6 @@
-# Snapper
+# Snap
 Blockly for Unity Editor.
-3rd Year Student Major Assessment. [LINK](https://github.com/DavidAzouz29/Snap)
+3rd Year Student Major Assessment. 
 
 ![Alt tag](/meta/SnapperEditor.png?raw=true "Snapper Editor")
 
@@ -22,14 +22,12 @@ Blockly for Unity Editor.
 ## 3rd Party:
 - Blockly: https://github.com/google/blockly 
 - ClipboardJs: https://clipboardjs.com/
-- Unity Web Browser: http://www.codegist.net/snippet/c/twitterwindowcs_rraallvv_c
 - PolyGlot: https://github.com/agens-no/PolyglotUnity 
 
 ## Notes:
 - Blockly: Using Block Based Coding in your App https://youtu.be/wDJua9hgyZM
 - https://docs.unrealengine.com/latest/INT/GettingStarted/FromUnity/
 - C++ https://github.com/dineshLL/lisa
-- Node Editor: https://github.com/Seneral/Node_Editor_Framework
 - https://github.com/cityindex/blockly-generator-csharp
 
 ## Known Issues:
